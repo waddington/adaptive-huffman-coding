@@ -69,7 +69,7 @@ public class  FileDecoder {
 
                         for (int i=0; i<((allOnesBits * 8) + (allOnesBits - 1)); i++)
                             decodingBuffer.remove(decodingBuffer.size()-1);
-                        
+
                         break;
                     }
 
