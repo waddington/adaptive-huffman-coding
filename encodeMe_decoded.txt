@@ -3,9 +3,4 @@ fox -
 
 jumPed over the lazy
 
-dog.a^
-
-d$%^
-
-
-sa
+dog.
